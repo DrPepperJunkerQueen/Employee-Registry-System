@@ -1,0 +1,13 @@
+Group;ID;First Name;Last Name;Condition;Birth Year;Salary
+Software Engineers;1;John;Smith;PRESENT;1985;5000,00
+Software Engineers;2;Emily;Johnson;DELEGATION;1990;6000,00
+Software Engineers;3;Michael;Williams;SICK_LEAVE;1988;5500,00
+Project Managers;4;Sarah;Brown;PRESENT;1982;8000,00
+Project Managers;5;David;Miller;PRESENT;1979;8500,00
+QA Engineers;6;Jessica;Davis;PRESENT;1992;4500,00
+QA Engineers;7;Ryan;Wilson;DELEGATION;1991;4700,00
+QA Engineers;8;Jennifer;Taylor;SICK_LEAVE;1993;4300,00
+UX Designers;9;Christopher;Anderson;PRESENT;1989;6200,00
+UX Designers;10;Ashley;Thomas;PRESENT;1994;5900,00
+DevOps;11;Kevin;Jackson;PRESENT;1987;7000,00
+DevOps;12;Nicole;White;DELEGATION;1990;7200,00
