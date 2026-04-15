@@ -1,4 +1,4 @@
-package com.example.piec;
+package com.example.ersapp;
 
 import jakarta.persistence.*;
 import java.util.*;

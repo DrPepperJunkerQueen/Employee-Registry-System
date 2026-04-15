@@ -1,4 +1,4 @@
-package com.example.piec;
+package com.example.ersapp;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

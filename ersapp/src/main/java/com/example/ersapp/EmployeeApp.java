@@ -1,4 +1,4 @@
-package com.example.piec;
+package com.example.ersapp;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;

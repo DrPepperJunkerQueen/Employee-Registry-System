@@ -1,4 +1,4 @@
-module com.example.piec {
+module com.example.ersapp {
     requires javafx.controls;
     requires javafx.fxml;
 
@@ -15,6 +15,6 @@ module com.example.piec {
     requires org.hibernate.validator;
 
 
-    opens com.example.piec to javafx.fxml, org.hibernate.orm.core, org.hibernate.validator;
-    exports com.example.piec;
+    opens com.example.ersapp to javafx.fxml, org.hibernate.orm.core, org.hibernate.validator;
+    exports com.example.ersapp;
 }

@@ -1,4 +1,4 @@
-package com.example.piec;
+package com.example.ersapp;
 
 public class RateDTO {
     private int grade;
