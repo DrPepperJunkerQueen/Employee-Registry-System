@@ -11,16 +11,8 @@
 * **Sorting and Filtering**:
 * Search for employees by their last name.
 * Sort employee groups alphabetically by name, by the number of employees, or by their fill percentage.
-
-
-
-
-* 
-**Data Export**: Export the current employee view to a CSV file (`exports/employees.csv`) using the "Export to CSV" button.
-
-
-* 
-**External API Integration**: Send complete data payloads (employees, groups, and rates in JSON format) to an external Spring Boot backend using the "Send to SpringBoot" button.
+* **Data Export**: Export the current employee view to a CSV file (`exports/employees.csv`) using the "Export to CSV" button.
+* **External API Integration**: Send complete data payloads (employees, groups, and rates in JSON format) to an external Spring Boot backend using the "Send to SpringBoot" button.
 
 
 
